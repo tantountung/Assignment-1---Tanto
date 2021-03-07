@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment 1 - Tanto", "Assignment 1 - Tanto\Assignment 1 - Tanto.csproj", "{027D66A0-AA75-4EB8-B3F2-933587C581AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment 1", "Assignment 1 - Tanto\Assignment 1.csproj", "{027D66A0-AA75-4EB8-B3F2-933587C581AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestCalculatorTest", "XUnitTestCalculatorTest\XUnitTestCalculatorTest.csproj", "{C128348C-778D-4C5C-8D93-B0B2B00729A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{027D66A0-AA75-4EB8-B3F2-933587C581AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{027D66A0-AA75-4EB8-B3F2-933587C581AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{027D66A0-AA75-4EB8-B3F2-933587C581AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C128348C-778D-4C5C-8D93-B0B2B00729A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C128348C-778D-4C5C-8D93-B0B2B00729A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C128348C-778D-4C5C-8D93-B0B2B00729A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C128348C-778D-4C5C-8D93-B0B2B00729A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
